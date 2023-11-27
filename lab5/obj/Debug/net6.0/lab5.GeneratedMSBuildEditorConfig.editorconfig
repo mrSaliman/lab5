@@ -1,0 +1,180 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab5
+build_property.RootNamespace = lab5
+build_property.ProjectDir = D:\Study\DataBase\cursach\laba5\lab5\lab5\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Study\DataBase\cursach\laba5\lab5\lab5
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xDdXN0b21lclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xDdXN0b21lclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xDdXN0b21lclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xDdXN0b21lclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xDdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xFbXBsb3llZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xFbXBsb3llZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xFbXBsb3llZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xFbXBsb3llZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xFbXBsb3llZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Furniture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xGdXJuaXR1cmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Furniture/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xGdXJuaXR1cmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Furniture/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xGdXJuaXR1cmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Furniture/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xGdXJuaXR1cmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Furniture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xGdXJuaXR1cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/OrderDetail/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlckRldGFpbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/OrderDetail/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlckRldGFpbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/OrderDetail/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlckRldGFpbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/OrderDetail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlckRldGFpbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/OrderDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlckRldGFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xSb2xlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xSb2xlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xSb2xlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xSb2xlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/Roles/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xSb2xlc1xVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/FurnitureFactory/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnVybml0dXJlRmFjdG9yeVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/DataBase/cursach/laba5/lab5/lab5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tzvkdffcfc
